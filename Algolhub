@@ -1,4 +1,3 @@
---  i cant find any good obfuscator for free or cheap so if can help me dm - lid2 thanks btw moonsec v3 also dont work for it pls give me tips for obfuscate  
 local message = "more script keyless here https://discord.gg/yX7tyWCR"
 setclipboard(message)
 game.StarterGui:SetCore("SendNotification", {
